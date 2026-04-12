@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Dayton-Kettering-Beavercreek (Metro), Ohio metro region, encompassing Dayton, Kettering, and Beavercreek. Captures the competitive landscape across city boundaries within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Dayton-Kettering-Beavercreek (Metro), Ohio, US",
+  "export_job_id": "b3da611a-2f57-4134-a53c-53d8fd912f41",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 444625,
+  "location_name": "Dayton-Kettering-Beavercreek, OH",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-dayton-kettering-beavercreek-metro-ohio-us-sample-444625",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/444625/beamstation_444625_restaurants-us-daytonketteringbeavercreekoh_SAMPLE_DIST.csv",
+  "sample_pct": 2.22,
+  "sample_records": 25,
+  "sample_sha256": "2b652230b39ce1f3e6a79de4ba3e22dbd8cc6c21b99e05f3b385d962c2c91f2a",
+  "sample_size_bytes": 112761,
+  "total_records": 1126,
+  "updated_at": "2026-03-31T13:37:20.634887+00:00"
+}
