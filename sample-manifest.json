@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3da611a-2f57-4134-a53c-53d8fd912f41",
+  "export_job_id": "469fcbad-b76f-4aab-aab0-ca82e4a446c8",
   "id_short": 444625,
-  "published_at": "2026-04-12T19:08:50Z",
+  "published_at": "2026-04-17T19:30:19Z",
   "repo_name": "all-restaurants-in-dayton-kettering-beavercreek-metro-ohio-us-sample-444625",
   "sample_asset_name": "beamstation_444625_restaurants-us-daytonketteringbeavercreekoh_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/444625/beamstation_444625_restaurants-us-daytonketteringbeavercreekoh_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "2b652230b39ce1f3e6a79de4ba3e22dbd8cc6c21b99e05f3b385d962c2c91f2a",
-  "sample_size_bytes": 112761,
-  "total_records": 1126
+  "sample_records": 146,
+  "sample_sha256": "1a434aa6368b1f192c392ca5d40c881a39603bfa7939dbf63d264a137bd42fe6",
+  "sample_size_bytes": 559397,
+  "total_records": 1463
 }
