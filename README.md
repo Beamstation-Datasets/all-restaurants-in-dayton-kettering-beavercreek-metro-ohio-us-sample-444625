@@ -1,6 +1,6 @@
 # All Restaurants in Dayton-Kettering-Beavercreek (Metro), Ohio, US
 
-> Free BeamStation sample export with 132 rows and masked direct-contact fields.
+> Free BeamStation sample export with 148 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `444625` |
 | Location | Dayton-Kettering-Beavercreek, OH |
 | Category | Restaurants |
-| Full dataset size | 1,322 records |
-| Free sample size | 132 records (9.98%) |
-| Last export | 2026-04-21T15:09:41.977975+00:00 |
+| Full dataset size | 1,482 records |
+| Free sample size | 148 records (9.99%) |
+| Last export | 2026-04-28T16:04:06.840705+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-dayton-kettering-beavercreek-metro-ohio-us-sample-444625/releases/download/sample-latest/beamstation_444625_restaurants-us-daytonketteringbeavercreekoh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
